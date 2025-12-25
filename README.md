@@ -26,6 +26,3 @@ mini_tasks/          # Small Python programs
 ## How to Run
 ```bash
 python filename.py
-
-⚠️ **Important**: Make sure the formatting is clean.  
-The triple backticks for `bash` must stay.
